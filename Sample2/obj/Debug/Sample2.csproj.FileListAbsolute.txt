@@ -1,0 +1,9 @@
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\bin\Debug\Sample2.exe.config
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\bin\Debug\Sample2.exe
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\bin\Debug\Sample2.pdb
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\obj\Debug\Sample2.csproj.CoreCompileInputs.cache
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\obj\Debug\Sample2.exe
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\obj\Debug\Sample2.pdb
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\obj\Debug\Sample2.csprojResolveAssemblyReference.cache
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\bin\Debug\FizzBuzz.Library.dll
+c:\users\eundeger\documents\visual studio 2017\Projects\Sample2\Sample2\bin\Debug\FizzBuzz.Library.pdb

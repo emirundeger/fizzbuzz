@@ -1,0 +1,5 @@
+c:\Users\eundeger\documents\visual studio 2017\Projects\Sample2\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+c:\Users\eundeger\documents\visual studio 2017\Projects\Sample2\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+c:\Users\eundeger\documents\visual studio 2017\Projects\Sample2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+c:\Users\eundeger\documents\visual studio 2017\Projects\Sample2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+c:\Users\eundeger\documents\visual studio 2017\Projects\Sample2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb
